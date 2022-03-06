@@ -1,6 +1,7 @@
+# updated March 6
 from random import randint
 
-WIDTH = 800 # Set game window width to 800 pixel
+WIDTH = 800 # Set window width to 800 pixel
 HEIGHT = 600 # Set game window height to 600 pixel
 
 balloon = Actor("balloon") # Create a balloon sprite
