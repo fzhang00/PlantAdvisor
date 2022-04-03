@@ -16,7 +16,7 @@ for i in  range(1, len(time)):
     else:
         pass
 pyplot.title('The Light That Changes Over Time 27-2022-09-41-28-0500')
-pyplot.xlabel('Time, (seconds')
+pyplot.xlabel('Time, (seconds)')
 pyplot.ylabel("The Light")
 pyplot.xticks(rotation = 45)
 pyplot.plot(time, light)
