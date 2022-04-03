@@ -24,7 +24,7 @@ pyplot.ylabel("The Light")
 pyplot.xticks(rotation = 45)
 pyplot.plot(hour, light)
 print("time recorded","13-2022-09-54-23-0400".split("-"))
-print("Hours of Sun Light the Plant has gotten is", accumulated)
+print("Hours of Sun Light the Plant has Gotten is", accumulated)
 pyplot.show()
 
 
